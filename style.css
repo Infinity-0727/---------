@@ -1,0 +1,209 @@
+html {
+    overflow: auto;
+}
+
+body {
+    overflow: hidden;
+    margin: 0;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #000;
+}
+
+.top {
+    background-image: url(img/img_link_bg2.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+.logo {
+    position: relative;
+    top: 45px;
+    left: 240px;
+}
+
+.box1 {
+    font-weight: bold;
+    height: 58px;
+    width: 329px;
+    border: 1px solid #fff;
+    background-color: #313131;
+    margin-right: 0;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+.box1 p {
+    font-size: 14px;
+    color: #fff;
+    margin: 20px 0px 10px 105px;
+    line-height: normal; 
+    letter-spacing: 0.2em; 
+}
+
+.top2 {
+    background-image: url(img/bg.jpg);
+    background-size:cover;
+    height: 500px;    
+}
+
+.logo2 {
+    position: relative;
+    top: 50px;
+    left: 490px;
+}
+
+.img-group {
+    display: flex;
+    
+}
+.ps4box1 {
+    position: relative;
+    top: 20px;
+    right: 80px;
+    border: 1px solid #fff;
+    background-color: #060507;
+    height: 117px;
+    width: 342px;
+}
+
+.ps4 {
+    position: relative;
+    top: 35px;
+    left: 95px;
+}
+
+.steambox2 {
+    position: relative;
+    top: 20px;
+    right: 65px;
+    border: 1px solid #fff;
+    background-color: #060507;
+    height: 117px;
+    width: 342px;
+}
+
+.steam {
+    position: relative;
+    top: 30px;
+    left: 75px;  
+}
+
+.text1 {
+    font-size: 14px;
+    position: relative;
+    right: 20px;
+    color: white;
+    margin: 0;
+    letter-spacing: 0.2em;
+}
+
+.text2 {
+    font-size: 14px;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    margin: 0;
+    letter-spacing: 0.2em;
+}
+
+.up-img-group {
+    display: flex;
+}
+
+.ps-group {
+    display: flex;
+    position: relative;
+    top: 26px;
+    left: 640px;
+}
+
+.ps4-2 {
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+
+.steam2 {
+    position: relative;
+    top: 26px;
+    left: 660px;
+}
+
+hr {
+    margin: 0;
+    height: 0.5px 0 0 0;
+    border-width: 1px 0 0 0;
+    border-style: solid;
+    border-color: #696868;  
+}
+
+.footer-text {
+    position: relative;
+    top:60px;
+    left: 190px;
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: 0.2em;
+    color: #696868;
+}
+
+.down {
+    border-top: 1 solid #fff;
+}
+
+.border {
+        margin: 0;
+        height: 1px 0 0 0;
+        border-width: 0.5px 0 0 0;
+        border-style: solid;
+        border-color: #696868;  
+        position: relative;
+        top: 60px;
+}
+
+.remote {
+    position: relative;
+    top: 65px;
+    left:550px;
+    color: #696868;  
+    font-size: 10px;
+} 
+
+.copcon-img {
+    position: relative;
+    top: 60px;
+    left: 680px;
+}
+
+.end {
+    position: relative;
+    top: 60px;
+    left: 600px;
+    color: #696868;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 10px;
+}
+
+.line1 {
+    color: #fff;
+}
+
+.line2 {
+    color: #fff;
+}
+
+.line3 {
+    color: #fff;
+}
+
+.line4 {
+    color: #fff;
+}
+
